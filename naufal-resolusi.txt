@@ -1,6 +1,5 @@
 NAUFAL RESOLUSI:
 -Saya ingin belajar membuat web menggunakan HTML,CSS, dan Javascript
--membuat web sederhana 
 -saya berencana belajar c++ dan arduino(opsional)
 -saya berencana belajar flutter saat hal diatas terpenuhi(opsional)
 -saya bercita-cita membuat robot canggih dan bekerja diluar negeri
