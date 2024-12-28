@@ -1,6 +1,10 @@
 RENCANA KONTEN:
 -JAVASCRIPT
 *belajar framework javascript
-*mempelajari struktur data
+ ^ Angular
+ ^ React
+-PHP framework
+ ^ Laravel
 -C++
 -Dart
+-Python
